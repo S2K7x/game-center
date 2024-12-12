@@ -2,7 +2,7 @@
 
 A modern, responsive web-based game center featuring classic arcade games built with React and TypeScript.
 
-![Game Center Screenshot](.screenshot.png)
+![Game Center Screenshot](screenshot.png)
 
 ## ✨ Features
 
