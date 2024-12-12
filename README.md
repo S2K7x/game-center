@@ -38,7 +38,7 @@ Check out the live demo: [Game Center Demo](https://your-demo-url.netlify.app)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/game-center.git
+   git clone https://github.com/S2K7x/game-center.git
    ```
 
 2. Navigate to the project directory:
@@ -114,6 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/game-center](https://github.com/yourusername/game-center)
+Project Link: [https://github.com/yourusername/game-center](https://github.com/S2K7x/game-center)
