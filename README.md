@@ -112,6 +112,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons by [Lucide Icons](https://lucide.dev)
 - Background patterns by [Hero Patterns](https://heropatterns.com)
 
-## 📧 Contact
-
-Project Link: [https://github.com/yourusername/game-center](https://github.com/S2K7x/game-center)
