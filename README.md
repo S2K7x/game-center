@@ -1,4 +1,4 @@
-# 🎮 Game Center
+# 🎮 Game Center (Beta)
 
 A modern, responsive web-based game center featuring classic arcade games built with React and TypeScript.
 
